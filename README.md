@@ -4,4 +4,4 @@
 #### PHP Version
 "7.3"
 
-#### Laravel Morph Relation
+#### Morph Relation
